@@ -1,7 +1,10 @@
 package CJ5.packages;
-
+import CJ5.packages.Example;
 public class Example2 {
-public void display(){
-    Example.show();
+    static void main() {
+
+            Example.show();
+
+
 }
 }
